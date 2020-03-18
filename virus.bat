@@ -1,0 +1,1 @@
+shutdown -s -c "Your computer will self-destruct in t minus 60 seconds" -t 60
